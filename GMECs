@@ -1,0 +1,15 @@
+Decentralized Supervisory Control of Generalized Mutual Exclusion Constraints in Petri Nets
+
+In this paper, we develop a solution to attain a
+set of decentralized monitors based on Generalized Mutual
+Exclusion Constraints (GMECs) in the paradigm of a set of
+inequalities. These inequalities exhibit cumbersomely complex
+and tediously lengthy forms in practice which usually allows
+arbitrary constraints. Therefore, a decentralized implemen-
+tation of the supervisor can mitigate the amount of agent
+communication, eliminate the restriction of space distance,
+and decrease the cost of controlled system. In particular, by
+removing the limitation that each GMECs is a singleton, our
+method can accommodate three or more independent variables.
+Our solution derives from geometrical space analysis as well as
+linear programming formulation.
